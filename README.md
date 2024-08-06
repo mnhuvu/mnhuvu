@@ -1,4 +1,3 @@
-[!MasterHead](https://i.pinimg.com/originals/83/13/f6/8313f67d2546e50652d4e31f74a1a789.png)
 <h1 align="center">Hi 👋, I'm Minh Nhu Vu</h1>
 <h3 align="center">A passionate AI Engineer from Vietnam</h3>
 <img align="right" alt="Coding" idth="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
